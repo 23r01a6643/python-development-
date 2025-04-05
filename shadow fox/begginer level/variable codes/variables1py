@@ -1,0 +1,5 @@
+ #1. Create a variable named pi and store the value 22/7 in it. Now check the data type of this variable.
+#CODE:
+pi=22/7			##outpt: 3.142857142857143
+print(pi)
+
